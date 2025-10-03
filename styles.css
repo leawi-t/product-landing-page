@@ -95,11 +95,6 @@ section:not(.intro){
   padding-right: 2rem;
 }
 
-.intro-image img {
-  max-width: 400px;
-  width: 100%;
-}
-
 .cta-btn {
   background: orange;
   color: white;
