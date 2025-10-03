@@ -14,7 +14,6 @@ This is a simple produc landing page exapmle built with HTML and CSS.
 - Responsive design (works on mobile, tablet, and desktop)
 - Clean and simple layout
 - Navigation bar with smooth scrolling
-- 
 ---
 
 ## Built With
